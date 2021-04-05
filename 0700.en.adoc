@@ -1,0 +1,73 @@
+== Geography
+
+Capitalize entire geographic names, but not general references.
+
++ Kent County, but Kent and Ottawa counties
++ the Mekong River, but the Mekong and Irrawaddy rivers
++ Yosemite Valley, but the Indus River valley
+
+Capitalize geographical regions, but not points of the compass (direction or locality).
+
++ A storm system that developed in the Midwest is moving east.
++ The golden-cheeked warbler is facing habitat loss in the northern ends of its range.
++ The farther south one travels in the United States, the more one notices a Southern accent.
+
+`Guidance needed on city, state/province, country style`
+
+==== Dateline cities
+
+Following the AP Stylebook, no country is required when referring to the following international cities:
+
+* Amsterdam
+* Baghdad
+* Bangkok
+* Beijing
+* Beirut
+* Berlin
+* Bogotá
+* Brussels
+* Cairo
+* Copenhagen
+* Djibouti
+* Dublin
+* Geneva
+* Gibraltar
+* Guatemala City
+* Hamburg
+* Havana
+* Helsinki
+* Hong Kong
+* Islamabad
+* Istanbul
+* Jerusalem
+* Johannesburg
+* Kabul
+* Kuwait City
+* London
+* Luxembourg
+* Macau
+* Madrid
+* Mexico City
+* Milan
+* Monaco
+* Montreal
+* Moscow
+* Munich
+* New Delhi
+* Panama City
+* Paris
+* Prague
+* Québec City
+* Rio de Janeiro
+* Rome
+* San Marino
+* Sao Paulo
+* Shanghai
+* Singapore
+* Stockholm
+* Sydney
+* Tokyo
+* Toronto
+* Vatican City
+* Vienna
+* Zurich
