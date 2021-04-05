@@ -9,12 +9,12 @@ For specific guidance, see the UN Editorial Manual on https://www.un.org/dgacm/e
 
 Capitalize the formal names of agencies and departments, offices, programs, and institutions when used in text; do not capitalize informal or incomplete names. Do not capitalize the in the name, unless it is part of the formal name. `Refer to Appendix A for preferred forms of frequently cited agencies.`
 
-+ the Ministry of Environment, but the ministry
-+ Ireland's National Parks and Wildlife Service, but the Irish parks and wildlife service
-+ University of Copenhagen, but the university
-+ GBIF formed a partnership with the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES).
+* the Ministry of Environment, but the ministry
+* the National Parks and Wildlife Service of Ireland or Irish National Parks and Wildlife Service, but the parks and wildlife service
+* University of Copenhagen, but the university
+* GBIF formed a partnership with the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES).
 
 Do not capitalize the words	federal, state, or government when not part of a full proper name.
 
-+ Many nodes are housed within government ministries and agencies.
-+ GBIF receives funding from the U.S. federal government funding in support of our projects and programmes.
+* Many nodes are housed within government ministries and agencies.
+* GBIF receives funding from the U.S. federal government funding in support of our projects and programmes.
