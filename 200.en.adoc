@@ -1,14 +1,37 @@
-[[short-id]]
-== Section/chapter title 
+[[capitalization]]
+== Species names
 
-“Hast got it, Dummie?” said she, quickly, as she closed the door on the guest.
+=== Capitalization and italics
 
-“Noa, noa! not exactly — but I thinks as ‘ow ⸺”
+Do not italicize common names. In the first reference, follow the common name with the scientific name italicized and in parentheses. 
 
-“Pish, you fool!” cried the woman, interrupting him, peevishly: “Vy, it is no use desaving of me. You knows you has only stepped from my boosing ken to another, and you has not been arter the book at all. So there’s the poor cretur a-raving and a-dying, and you ⸺”
++ WRONG: The Golden-cheeked Warbler, _Dendroica chrysoparia_, is imperiled.
++ RIGHT: The golden-cheeked warbler (_Dendroica chrysoparia_) is imperiled.
 
-“Let I speak!” interrupted Dummie in his turn. “I tells you I vent first to Mother Bussblone’s, who, I knows, chops the whiners morning and evening to the young ladies, and I axes there for a Bible, and she says, says she, ‘I ’as only a “Companion to the __H__alter!” but you’ll get a Bible, I think, at Master Talkins, — the cobbler — as preaches.’ So I goes to Master Talkins, and he says, says he, ‘I ’as no call for the Bible, ’cause vy, I ’as a call vithout; but mayhap you’ll be a-getting it at the butcher’s hover the vay — ’cause vy? — the butcher’ll be damned!’ So I goes hover the vay, and the butcher says, says he, ‘I ’as not a Bible, but I ’as a book of plays bound for all the vorld just like ’un, and mayhap the poor cretur mayn’t see the difference.’ So I takes the plays, Mrs. Margery, and here they be surely! — And how’s poor Judy?”
+Do not capitalize common names of species except proper nouns and adjectives.
 
-“Fearsome! she’ll not be over the night; I’m a-thinking.”
++ Queen Anne’s lace, Canada thistle, spring beauty
++ WRONG: The Bald Eagle sometimes preys on the American Pika.
++ RIGHT: The bald eagle sometimes preys on the American pika.
 
-“Vell, I’ll track up the dancers!”
+NOTE: The convention among ornithologists is to capitalize both words in a standardized common »»name (based on the AOU Checklist). This is unique to ornithologists, and should only be used when the audience addressed is entirely ornithologists (i.e., a mix of herpetologists and ornithologists would indicate the noncapitalized usage).
+
+Capitalize the genus in scientific names but not the species.
+
++ _Aplodontia rufa_, _Draba cusickii_ var. _pedicellata_
+
+Capitalize names for phylum, class, order, and family, but do not italicize.
+
++ Chordata, Monocotyledoneae , Carnivora, Parulidae
+
+Do not capitalize or italicize English derivatives of scientific names.
+
++ amoeba, carnivore
+
+=== Usage
+
+It is appropriate for scientific organizations like GBIF to include the scientific names of species in our communications. This approach enhances clarity, as common names vary by region and across languages.
+
+The scientific name of a species should immediately follow the first reference to the common name. Thereafter, a common name or shorter reference will suffice.
+
++ The pallid bat (_Antrozous pallidus_) is found throughout most of the western United States. The bat has large ears, large eyes, a simple muzzle, and yellowish drab dorsal pelage.
