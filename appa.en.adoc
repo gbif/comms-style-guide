@@ -1,14 +1,22 @@
-[appendix]
-== Example
+[appendix-a]
+== Acronyms
 
-An AsciiDoc appendix is just a document section with a 'specialsection' title.
+=== International and intergovernmental bodies and other partners/programs
 
-Place non-essential information that supports your analysis, validates your conclusions or pursues a related point in an appendix. Examples could include: 
+CBD Convention on Biological Diversity
+CITES   Convention on International Trade in Endangered Species of Wild Fauna and Flora
+EU BON
+GEO BON   
+IPBES   Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services: 
+IPCC
+IUCN    International Union for the Conservation of Nature
+UNEP    United Nations Environmental Programme
 
-* figures/tables/charts/graphs of results
-* statistics
-* questionnaires 
-* transcripts of interviews
-* survey results
-* maps
-* software installation instructions
+=== GBIF acronyms
+
+The following acronyms are unique within GBIF. Use them carefully in external communications.
+
+BIF
+DwC
+DwC-A
+IPT
