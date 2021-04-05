@@ -1,19 +1,22 @@
 [[spelling]]
 == Spelling and usage
 
+=== Spelling
+
+GBIF uses https://www.un.org/dgacm/en/content/editorial-manual/spelling[UN spelling^] as its default. In the absence of guidance from that source, we look to others (roughly in order of precedence):
+
++ The Economist Style Guide, 12th edition (print only: no longer online 😔)
++ http://www.theguardian.com/guardian-observer-style-guide-a[Guardian and Observer Style Guide^]
++ http://handbook.reuters.com/index.php?title=A[Reuters Style Guide^]
++ https://sites.google.com/a/ngs.org/ngs-style-manual/[National Geographic Style Manual^]
+
 === –ise vs. -ize.
 
-This is an accepted usage in British English, and not simply an Americanization.
-
-We will stick to UN style, i.e.  –ize, -ization
-
-BUT not with y, e.g. analyse, catalyse (think of analysis, catalyst)
+This style (also favoured by the UN) is an accepted usage in British English, not simply an Americanization. Use of `–ize`, `-izing` and `-ization` is preferred, but not with `-yse`, e.g. analyse, catalyse.
 
 === Hyphenated words
 
-Phrases connected by hyphens when they are collectively used as an adjective or modifier (phrasal adjective).
-
-Example:
+Phrases connected by hyphens when they are collectively used as an adjective or modifier (phrasal adjective), as in this example:
 
 > It is essential that scientists have access to fit-for-use data
 
@@ -21,10 +24,10 @@ BUT
 
 > These data are fit for use.
 
-Some judgment calls remain,  but we follow the https://www.un.org/dgacm/en/content/editorial-manual/spelling[UN style guide^] in using:
+Some judgment calls remain, but note that we follow the https://www.un.org/dgacm/en/content/editorial-manual/spelling[UN style guide^] in using:
 
-+ policymaker, policymaking
-+ decision maker, decision-making
++ `policymaker` and `policymaking`
++ `decision maker`, `decision-making`
 
 === Quotation marks 
 
@@ -32,15 +35,13 @@ Double quotation marks used for direct quote from document, speech etc. Single q
 
 Examples
 
-> The Convention on Biological Diversity (CBD) defines biodiversity as “the variability among living organisms from all sources … this includes diversity within species, between species and of ecosystems.”
+> The Convention on Biological Diversity (CBD) defines biodiversity as “the variability among living organisms from all sources…this includes diversity within species, between species and of ecosystems.”
 
 > The study looked at the quality of observations carried out by ‘citizen scientists’. 
 
 === Use of commas
 
-Over-use: unnecessary after penultimate item in a list 
-
-Example
+Over-use: unnecessary after penultimate item in a list:
 
 > The data fields include species name, location, date and time, and name of collector.
 
