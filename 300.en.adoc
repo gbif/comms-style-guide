@@ -1,0 +1,42 @@
+== Capitalization	
+
+When in doubt, do not capitalize.
+
+=== Time and date
+
+Capitalize months and days of the week, but not the seasons.
+
++ RIGHT: Last spring, Julie rode her bike to work every Tuesday and Thursday.
++ RIGHT: The summer field season begins in mid-May.
++ WRONG: Their research concluded in the Fall of 2009.
+
+Do not capitalize the abbreviations •	a.m. or p.m. 
+
+=== Geography
+
+Capitalize entire geographic names, but not general references.
+
++ Kent County, but Kent and Ottawa counties
++ the Potomac River, but the Potomac and Rappahannock rivers
++ Yosemite Valley, but the Blackfoot River valley
+
+Capitalize geographical regions, but not points of the compass (direction or locality).
+
++ A storm system that developed in the Midwest is moving east.
++ The golden-cheeked warbler is facing habitat loss in the northern ends of its range.
++ The farther south one travels in Virginia, the more one notices a Southern accent.
++ The GBIF network extends throughout the Western Hemisphere.
+
+=== Departments, agencies, and organizations
+
+Capitalize the formal names of agencies and departments, offices, programs, and institutions when used in text; do not capitalize informal or incomplete names. Do not capitalize the in the name, unless it is part of the formal name. `Refer to Appendix A for preferred forms of frequently cited agencies.`
+
++ the Ministry of Environment, but the ministry
++ Ireland's National Parks and Wildlife Service, but the Irish parks and wildlife service
++ University of Copenhagen, but the university
++ GBIF formed a partnership with the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES).
+
+Do not capitalize the words	federal, state, or government when not part of a full proper name.
+
++ Many nodes are housed in federal ministries and agencies.
++ GBIF receives federal government funding in support of our projects and programs.
