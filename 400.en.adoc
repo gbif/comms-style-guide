@@ -1,0 +1,90 @@
+[[spelling]]
+== Spelling and usage
+
+=== –ise vs. -ize.
+
+This is an accepted usage in British English, and not simply an Americanization.
+
+We will stick to UN style, i.e.  –ize, -ization
+
+BUT not with y, e.g. analyse, catalyse (think of analysis, catalyst)
+
+=== Hyphenated words
+
+Phrases connected by hyphens when they are collectively used as an adjective or modifier (phrasal adjective).
+
+Example:
+
+> It is essential that scientists have access to fit-for-use data
+
+BUT 
+
+> These data are fit for use.
+
+Some judgment calls remain,  but we follow the https://www.un.org/dgacm/en/content/editorial-manual/spelling[UN style guide^] in using:
+
++ policymaker, policymaking
++ decision maker, decision-making
+
+=== Quotation marks 
+
+Double quotation marks used for direct quote from document, speech etc. Single quotes in all other cases.
+
+Examples
+
+> The Convention on Biological Diversity (CBD) defines biodiversity as “the variability among living organisms from all sources … this includes diversity within species, between species and of ecosystems.”
+
+> The study looked at the quality of observations carried out by ‘citizen scientists’. 
+
+=== Use of commas
+
+Over-use: unnecessary after penultimate item in a list 
+
+Example
+
+> The data fields include species name, location, date and time, and name of collector.
+
+Under-use: commas can make meaning clearer by dividing sub-clauses 
+
+> The manual, which has been published in order to facilitate sharing of biodiversity data, is aimed at information managers in natural history institutions.
+
+=== Common problems to avoid
+
+==== Passive voice
+
+As a matter of style, passive voice is almost always inferior to active voice. With active voice, the subject acts; with passive voice, the subject is acted upon. It is important in telling our story that we take credit for the work we do—and not imply that it was done to us!
+
+“For some reason, scientists notoriously use the passive voice—things are added, are measured, are found, and so on. Using the active voice forces you to be specific about who added, who measured, who found—and can point to holes in your story.”
+—Cornelia Dean, Am I Making Myself Clear?: A Scientist’s Guide to Talking to the Public (2009)
+
+WRONG: The matter will be given careful consideration.
+RIGHT: We will give the matter careful consideration.
+PREFERRED: We will consider the matter carefully.
+
+==== The split infinitive	
+
+WRONG: He was told to quickly process the data. 
+RIGHT: He was told to process the data quickly. 
+
+==== The dangling participle
+
+WRONG: Straddling the Arizona–New Mexico border, the ecologist found a series of bat-dwelling caves. (Was the ecologist straddling the border?) 
+RIGHT: The ecologist found a series of bat-dwelling caves straddling the Arizona–New Mexico border. (Better!)
+
+==== Sexist language
+
+`Avoid using he and she when referring to an unspecified person. Recast the sentence in the plural, or avoid the use of pronouns altogether. If you must refer to a single person, use he or she not he/she and never s/he.`
+
+WRONG: chairman/chairperson, businessman, mankind
+RIGHT: chair, business executive/business person, humankind
+
+==== The longer of two similar words	
+
+Long Word		Shorter/Better Form
+facilitate		help
+initialize		begin, start
+necessitate		require
+numerous		  many
+utilize			  use
+utility			  usefulness
+
