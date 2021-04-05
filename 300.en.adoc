@@ -1,34 +1,9 @@
-== Capitalization	
+[[capitalization]]
+== Capitalization	in English
 
 Keep capitalization to a minimum. When in doubt, go small!
 
-=== Time and date
-
-Capitalize months and days of the week, but not the seasons.
-
-+ RIGHT: Last spring, Julie rode her bike to work every Tuesday and Thursday.
-+ RIGHT: The summer field season begins in mid-May.
-+ WRONG: Their research concluded in the Fall of 2009.
-
-Do not capitalize the abbreviations
-
-+ a.m.
-+ p.m. 
-
-=== Geography
-
-Capitalize entire geographic names, but not general references.
-
-+ Kent County, but Kent and Ottawa counties
-+ the Rhine River, but the Rhine and Neuse rivers
-+ Yosemite Valley, but the Blackfoot River valley
-
-Capitalize geographical regions, but not points of the compass (direction or locality).
-
-+ A storm system that developed in the Midwest is moving east.
-+ The golden-cheeked warbler is facing habitat loss in the northern ends of its range.
-+ The farther south one travels in Virginia, the more one notices a Southern accent.
-+ The GBIF network extends throughout the Western Hemisphere.
+For specific guidance, see the UN Editorial Manual on https://www.un.org/dgacm/en/content/editorial-manual/capitalization[Capitalization in English^].
 
 === Departments, agencies, and organizations
 
@@ -41,5 +16,5 @@ Capitalize the formal names of agencies and departments, offices, programs, and 
 
 Do not capitalize the words	federal, state, or government when not part of a full proper name.
 
-+ Many nodes are housed in federal ministries and agencies.
-+ GBIF receives federal government funding in support of our projects and programs.
++ Many nodes are housed within government ministries and agencies.
++ GBIF receives funding from the U.S. federal government funding in support of our projects and programmes.
