@@ -1,6 +1,6 @@
 == Capitalization	
 
-When in doubt, do not capitalize.
+Keep capitalization to a minimum. When in doubt, go small!
 
 === Time and date
 
@@ -10,14 +10,17 @@ Capitalize months and days of the week, but not the seasons.
 + RIGHT: The summer field season begins in mid-May.
 + WRONG: Their research concluded in the Fall of 2009.
 
-Do not capitalize the abbreviations •	a.m. or p.m. 
+Do not capitalize the abbreviations
+
++ a.m.
++ p.m. 
 
 === Geography
 
 Capitalize entire geographic names, but not general references.
 
 + Kent County, but Kent and Ottawa counties
-+ the Potomac River, but the Potomac and Rappahannock rivers
++ the Rhine River, but the Rhine and Neuse rivers
 + Yosemite Valley, but the Blackfoot River valley
 
 Capitalize geographical regions, but not points of the compass (direction or locality).
