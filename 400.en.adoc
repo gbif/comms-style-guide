@@ -5,10 +5,70 @@
 
 GBIF uses https://www.un.org/dgacm/en/content/editorial-manual/spelling[UN spelling^] as its default. In the absence of guidance from that source, we look to others (roughly in order of precedence):
 
-+ The Economist Style Guide, 12th edition (print only: no longer online 😔)
-+ http://www.theguardian.com/guardian-observer-style-guide-a[Guardian and Observer Style Guide^]
-+ http://handbook.reuters.com/index.php?title=A[Reuters Style Guide^]
-+ https://sites.google.com/a/ngs.org/ngs-style-manual/[National Geographic Style Manual^]
+* The Economist Style Guide, 12th edition (print only: no longer online 😔)
+* http://www.theguardian.com/guardian-observer-style-guide-a[Guardian and Observer Style Guide^]
+* http://handbook.reuters.com/index.php?title=A[Reuters Style Guide^]
+* https://sites.google.com/a/ngs.org/ngs-style-manual/[National Geographic Style Manual^]
+
+==== A
+
+==== B
+
+==== C
+
+* COVID-19
+
+==== D
+
+==== E
+
+==== F
+
+==== G
+
+==== H
+
+==== I
+
+==== J
+
+==== K
+
+==== L
+
+==== M
+
+==== N
+
+==== O
+
+==== P
+
+==== Q
+
+==== R
+
+==== S
+
+* SARS-CoV-2
+
+==== T
+
+==== U
+
+==== V
+
+==== W
+
+==== X
+
+==== Y
+
+==== Z
+
+=== Data
+
+Uses of *datum* as singular and *data* as a collective plural are both acceptable; grammatically, both are treated as singular as in the sentence: "GBIF-mediated *data is* drawn from the holdings of more than two thousand institutions worldwide."
 
 === –ise vs. -ize.
 
