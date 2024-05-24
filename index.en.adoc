@@ -32,8 +32,6 @@ include::700.en.adoc[]
 
 :sectnums!:
 
-include::afterword.en.adoc[]
-
 include::appa.en.adoc[]
 
 include::glossary.en.adoc[]
