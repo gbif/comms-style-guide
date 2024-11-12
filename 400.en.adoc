@@ -16,6 +16,7 @@ GBIF uses https://www.un.org/dgacm/en/content/editorial-manual/spelling[UN spell
 
 ==== C
 
+* co-funding
 * COVID-19
 
 ==== D
@@ -43,6 +44,8 @@ GBIF uses https://www.un.org/dgacm/en/content/editorial-manual/spelling[UN spell
 ==== O
 
 ==== P
+
+* pre-finance
 
 ==== Q
 
